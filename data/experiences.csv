@@ -1,0 +1,7 @@
+experience_id,experience_name,category,city,base_price_zar,capacity
+EXP001,Olive Retreat Weekend Escape,Accommodation,Pretoria,1850.0,5
+EXP002,Couples Spa Reset,Wellness,Johannesburg,1250.0,2
+EXP003,Sunset Picnic for Two,Food & Leisure,Pretoria,780.0,2
+EXP004,Adventure Day Pass,Activities,Hartbeespoort,640.0,4
+EXP005,Private Birthday Dinner,Dining,Johannesburg,2200.0,8
+EXP006,Creative Pottery Session,Workshops,Centurion,450.0,12
